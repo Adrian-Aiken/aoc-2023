@@ -44,6 +44,7 @@
         "map": "cpp",
         "deque": "cpp",
         "xtree": "cpp",
-        "set": "cpp"
+        "set": "cpp",
+        "iomanip": "cpp"
     }
 }
