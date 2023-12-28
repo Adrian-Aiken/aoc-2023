@@ -116,7 +116,7 @@ int main()
     vector<string>* floor = new vector<string>();
     vector<vector<string>> states;
 
-    input.open("input.txt");
+    input.open("sample.txt");
 
     while (!input.eof())
     {
